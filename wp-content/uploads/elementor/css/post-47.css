@@ -1,0 +1,65 @@
+.elementor-47 .elementor-element.elementor-element-2da50ee > .elementor-container{min-height:90px;}.elementor-47 .elementor-element.elementor-element-2da50ee{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:-90px;z-index:2;}.elementor-47 .elementor-element.elementor-element-2da50ee > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-47 .elementor-element.elementor-element-9a69fd4.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-47 .elementor-element.elementor-element-9a69fd4.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-47 .elementor-element.elementor-element-9a69fd4 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-47 .elementor-element.elementor-element-9a69fd4 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-47 .elementor-element.elementor-element-87f44c8{text-align:left;}.elementor-47 .elementor-element.elementor-element-87f44c8 img{width:180px;}.elementor-47 .elementor-element.elementor-element-295d13e{text-align:left;}.elementor-47 .elementor-element.elementor-element-295d13e img{width:180px;}.elementor-bc-flex-widget .elementor-47 .elementor-element.elementor-element-2b48913.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-47 .elementor-element.elementor-element-2b48913.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-47 .elementor-element.elementor-element-2b48913 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-menu-toggle{margin-left:auto;background-color:#FFFFFF;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu .elementor-item{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:500;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--main .elementor-item:focus{color:#74947B;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown a:hover,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-menu-toggle:hover{color:#FFFFFF;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown a:hover,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown a.highlighted{background-color:#74947B;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown .elementor-item, .elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Poppins", Sans-serif;font-weight:500;}.elementor-47 .elementor-element.elementor-element-ee619de div.elementor-menu-toggle:hover{color:#74947B;}@media(max-width:1024px){.elementor-47 .elementor-element.elementor-element-2da50ee{margin-top:0px;margin-bottom:-90px;padding:0px 20px 0px 20px;}.elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown .elementor-item, .elementor-47 .elementor-element.elementor-element-ee619de .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:18px;}}@media(max-width:767px){.elementor-47 .elementor-element.elementor-element-2da50ee{margin-top:0px;margin-bottom:-90px;}.elementor-47 .elementor-element.elementor-element-9a69fd4{width:50%;}.elementor-47 .elementor-element.elementor-element-2b48913{width:50%;}}@media(min-width:768px){.elementor-47 .elementor-element.elementor-element-9a69fd4{width:25%;}.elementor-47 .elementor-element.elementor-element-2b48913{width:75%;}}@media(max-width:1024px) and (min-width:768px){.elementor-47 .elementor-element.elementor-element-9a69fd4{width:50%;}.elementor-47 .elementor-element.elementor-element-2b48913{width:50%;}}/* Start custom CSS for section, class: .elementor-element-2da50ee */.elementor-47 .elementor-element.elementor-element-2da50ee.elementor-sticky--effects{
+    -webkit-box-shadow: 0 20px 50px 0 rgb(0 0 0 / 5%);
+	box-shadow: 0 20px 50px 0 rgb(0 0 0 / 5%);
+	-webkit-transition: all .3s ease-out 0s;
+background-color: rgba(255, 255, 255, 1); 
+color: rgba(255, 255, 255, 1);
+}
+
+.elementor-47 .elementor-element.elementor-element-2da50ee{
+transition: background-color 0.3s ease !important;
+}
+
+.elementor-47 .elementor-element.elementor-element-2da50ee.elementor-sticky--effects >.elementor-container{
+min-height: 75px;
+}
+
+.elementor-47 .elementor-element.elementor-element-2da50ee > .elementor-container{
+transition: min-height 0.5s ease !important;
+}
+
+.elementor-sticky--effects .nav-bar .elementor-nav-menu a {
+    color: #1E1E1E;
+}
+
+.elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #fff !important;
+    font-size: 19px !important;
+}
+
+.elementor-sticky--effects .elementor-nav-menu--main .elementor-item.elementor-item-active {
+    color: #74947B !important;
+}
+
+.primary-logo img {
+    max-width: 180px;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+.secondary-logo img, .secondary-logo a {
+    display: none;
+}
+
+.elementor-sticky--effects .primary-logo img, .elementor-sticky--effects .primary-logo a{
+    display: none;
+}
+
+.elementor-sticky--effects .secondary-logo img {
+    max-width: 180px;
+    height: auto;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.elementor-sticky--effects .secondary-logo a {
+    display: inline-block;
+}/* End custom CSS */
