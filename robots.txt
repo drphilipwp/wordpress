@@ -1,3 +1,0 @@
-Sitemap: http://drphilip.ca/sitemap_index.xml
-User-agent: *
-Allow: /
